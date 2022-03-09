@@ -1,6 +1,6 @@
-### 🚗💨
+### Welcome to my Github 🚗💨
 
-I am a software engineer at Cruise. I am familiar with C++, Go, Python, R, C#, and Java. I have done a dozen side projects in robotics and autonomous systems.
+I am a software engineer with a focus on data analysis and autonomous driving technology. I am familiar with C++, Go, Python, R, C#, and Java. 
 <!--
 **tzhaojustdoit/tzhaojustdoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
