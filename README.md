@@ -1,6 +1,6 @@
-### Hi there 👋
+### 🚗💨
 
-I am a software engineer with 3 years of backend development experience. I am familiar with C++, Python, R, C#, and Java. I have done a dozen side projects in robotics and autonomous systems.
+I am a software engineer at Cruise. I am familiar with C++, Python, R, C#, and Java. I have done a dozen side projects in robotics and autonomous systems.
 <!--
 **tzhaojustdoit/tzhaojustdoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
